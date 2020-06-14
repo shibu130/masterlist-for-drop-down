@@ -33,7 +33,9 @@ for i in line:
             dictionary[i.strip()]=[]
         
 
+        #remember to change user and db and tables
         
+        #also create a table visatypes
 mydb = mysql.connector.connect(
   host="localhost",
   user="imrankhan",
