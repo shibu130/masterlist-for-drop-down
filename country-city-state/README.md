@@ -59,6 +59,7 @@ so u got states list now
 
 u select a state pass it to the entity manager native query  code u got cities finally select city
  
+ Now  you may ask well this guy generated the tables where is the script where is it?
  
  
  
