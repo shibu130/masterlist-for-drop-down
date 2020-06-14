@@ -62,5 +62,7 @@ u select a state pass it to the entity manager native query  code u got cities f
  Now  you may ask well this guy generated the tables where is the script where is it?
  
  
+ find it in the folder SQL_PROCEDURE
+ 
  
  
