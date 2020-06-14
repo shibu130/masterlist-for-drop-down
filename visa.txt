@@ -1,0 +1,1531 @@
+Afghanistan
+{
+Tourist Visa
+Diplomatic Visa
+Business Visa
+Working Visa
+Visit Visa
+Student Visa
+Crew Visa
+Transit Visa
+Exit Visa
+}
+Aland Islands
+{
+Tourist Visa
+}
+Albania
+{
+Tourist Visa
+}
+Algeria
+{
+Tourist Visa
+Diplomatic or Official visa
+Media visa
+Visitor or Tourist visa
+Business visa
+Student visa
+Work visa
+Temporary Work visa
+Family visa
+Medical visa
+Cultural visa
+}
+American Samoa
+{
+Tourist Visa
+Immigrant Visa
+Nonimmigrant Visa
+}
+Andorra
+{
+no tourist visa
+}
+Angola
+{
+eVisa on Arrival
+ Ordinary Visa
+ Brief Duration Visa
+Work Visa
+}
+Anguilla
+{
+Tourist Visa
+Ordinary Visa
+ Brief Duration Visa
+Work Visa
+Student Visa
+Residence Visa
+}
+Antarctica
+{
+no visa required
+}
+Antigua & Barbuda
+{
+eVisa - 180 days, Single Entry
+Multiple-entry visa
+}   
+Argentina      
+{
+eTA / AVE - 90 days, Multiple Entry
+Medical Visa
+Student Visa
+Work Visa
+Pensioner (Pensionado) Visa
+Financier (Rentista) Visa
+Investment Visa
+}
+Armenia
+{
+Visitors Visa - 90 days, Single Entry
+Visitors Visa - 180 days, Single Entry  
+Tourist Visa    
+Tourist Visa On Arrival   
+Business Visa (BV)
+Student Visa (STV)
+Transit Visa (TRV)
+Employment Visa (EV)
+Journalist Visa (JV)
+Entry Visa (XV)
+Conference Visa (CV)
+Medical Visa (MV)
+Medical Attendant Visa (MXV)
+Research Visa (RV)
+Visas for study of Yoga, Vedic culture, Indian system of music & dance etc 
+}
+Aruba
+{
+Tourist Visa
+}
+Australia
+{
+Student Visa
+Work and Holiday Visa
+Tourist Visa
+Couple Visa
+Temporary Graduate Visa
+}
+Austria
+{
+Tourist Visa
+Austrian Airport Visa 
+Austrian Visitor Visa 
+Austrian Business Visa 
+Austrian Visa for Official Visit 
+Austrian Medical Visa 
+Austrian Study Visa
+Austrian Visa for Cultural, Sports and Film Crews 
+}
+Azerbaijan
+{
+Tourist Visa
+Business Visa
+Treatment Visa
+}
+Bahamas
+{
+Tourist Visa
+}
+Bahrain
+{
+Tourist Visa 
+Visitor Visa 
+72-Hour & Seven-Day Visa
+Business Visa 
+Work Visa
+Family Visa
+}
+Bangladesh
+{
+Tourist visa
+Business visa
+Student visa
+Employment visa
+Diplomatic/Official visa
+Investor visa
+Journalist visa
+NGO visa
+}
+Barbados
+{
+Tourist visa
+}
+Belarus
+{
+transit visa
+short-term visa, valid for up to 90 days
+long-term visa, valid for up to 1 year with the right to stay up to 90 days
+}
+Belgium
+{
+Airport Transit Visa
+Tourist visa
+Visitor visa
+Business visa
+Official visit visa
+Medical visa
+Short-term study visa
+Belgian visa for cultural, sports, religious or film events\
+Non-immigrant Belgian visa
+Student visa
+Work visa
+Entrepreneur visa
+}
+Belize
+{
+Student’s Visa 
+Dependent’s Visa
+In Transit’s Visa 
+Temporary Employment ’s Visa
+Business/Visitor’s Visa
+}
+Benin
+{
+Tourist E-visa
+Business E-visa
+Tourist visa
+Business visa
+}
+Bermuda
+{
+Tourist visa
+Business visa
+}
+Bhutan
+{
+tourist visa
+}
+Bolivia
+{
+visitor visa
+}
+Bonaire, St Eustatius and Saba
+{
+tourist visa
+}
+Bosnia and Herzegovina
+{
+tourist visa
+}
+Botswana
+{
+single entry visa
+multiple entry visa
+}
+Bouvet Island
+{
+Schengen Visa
+Multiple Entry Visa
+Entry Visa
+}
+Brazil
+{
+Tourist visa 
+ Temporary  visa 
+Permanent visa 
+Diplomatic
+}
+British Indian Ocean Territory
+{
+NA
+}
+Brunei Darussalam
+{
+NA
+}
+Bulgaria
+{
+Bulgarian Student Visa 
+Work permit Type D visa 
+Business Type D visa 
+Parents Foreigners Type D visa
+ Married to a Bulgarian citizen Type D visa
+Parent/Partner Type D visa
+Member of Family Type D visa
+}
+Burkina Faso
+{
+TOURIST VISA
+}
+Burundi
+{
+TOURIST VISA
+}
+Cambodia
+{
+tourist visa
+ordinary visa
+Retirement visa
+Students visa
+employment visa
+}
+Cameroon
+{
+tourist visa
+}
+Canada
+{
+student visa
+work visa
+Visitor visa
+Federal Skilled Worker  visa
+Canadian Experience Class visa
+}
+Cape Verde 
+{
+single entry visa
+multiple entry visa
+}
+Cayman Islands
+{
+tourist visa
+}
+Central African Republic
+{
+tourist visa
+}
+Chad
+{
+tourist visa
+}
+Chile
+{
+tourist visa
+}
+China
+{
+diplomatic visa
+courtesy visa
+ service visa 
+ ordinary visa
+}
+Christmas Island 
+{
+Schengen visa
+}
+Cocos Island
+{
+tourist visa
+}
+Colombia
+{
+ Temporary 
+ Resident 
+ Business visas
+}
+Comoros
+{
+tourist visa
+}
+Congo
+{
+90 day entry visa
+}
+Cook Islands
+{
+30 day entry
+}
+Costa Rica
+{
+90 day entry
+}
+Ivory Coast
+{
+Multiple Entry visa 
+}
+Croatia
+{
+short-stay visa
+}
+Cuba
+{
+Tourist Visa 
+Family Visa
+Journalist Visa
+Business Visa
+Work Visa 
+ Student Visa 
+Medical Treatment Visa
+
+}
+Curacao
+{
+180 day entry
+}
+Cyprus
+{
+Short-stay
+Travel Visa
+Multiple-entry Visa
+}
+Czech Republic
+{
+Short-term visas
+Long-term stays  visa
+}
+Democratic Republic of Congo
+{
+Multiple entry visa
+}
+Denmark
+{
+Schengen visa
+}
+Djibouti
+{
+90 day visa
+}
+Dominica
+{
+tourist visa
+}
+Dominican Republic
+{
+tourist visa
+}
+East Timor
+{
+tourist visa
+}
+Ecuador
+{
+12-IX visa
+}
+Egypt
+{
+Tourist Visa-Multiple Entry
+Service Visa
+Long Term Tourist Visa
+Long Term Visit Visa-Multiple Entry
+}
+El Salvador
+{
+Salvadoran visa 
+}
+Equatorial Guinea
+{
+90 day stay
+}
+Eritrea
+{
+tourist visa
+}
+Estonia
+{
+Tourist visa
+Tourist
+Business / Work
+Visiting Family and Friends
+Cultural & Sports
+}
+Falkland Islands (Malvinas)
+{
+tourist visa
+}
+Faroe Islands
+{
+ Faroe Islands danish visa
+}
+Fiji
+{
+Single Entry Visa
+ Multiple Entry Visa
+}
+Finland
+{
+Single-entry visa
+Double-entry visa
+Multiple-entry visa
+Airport transit visa
+}
+France
+{
+airport transit visa
+short-stay visa
+ long-stay visa 
+}
+Gabon
+{
+tourist visa
+}
+Gambia
+{
+tourist visa
+}
+Georgia
+{
+short term visa
+long term   visa
+Immigration visa
+Diplomatic visa
+Transit visa
+Ordinary visa
+student visa
+}
+Germany
+{
+type A visa
+type B visa
+type C visa
+type D visa
+schenghen visa
+}
+Ghana
+{
+single entry visa
+multiple entry visa
+}
+Gibraltar
+{
+multiple-entry Schengen visa
+}
+Greece
+{
+Type d visa
+}
+Greenland
+{ 
+Schengen visa issued by danish mission
+}
+Grenada
+{
+Grenadian diplomatic missions visa
+}
+Guadeloupe
+{
+long term 
+short term
+}
+Guam
+{
+tourist visa
+}
+Guatemala
+{
+Single-entry tourist visa
+multiple-entry tourist visa
+multiple-entry business visa
+}
+Guernsey
+{
+Leave to enter	
+}
+Guinea
+{
+Single Entry Visa
+ Multiple Entry Visa
+Multiple Entry Visa
+}
+Guinea-Bissau
+{
+tourist visa
+}
+Guyana
+{
+tourist visa
+}
+Haiti
+{
+tourist visa
+}
+Honduras
+{
+90 day stay
+}
+Hong Kong
+{
+Visit Visa
+Work Visa 
+Investment Visa
+Dependant Visa
+Student Visa
+}
+Hungary
+{
+Visitor's visa
+Business visa
+}
+Iceland
+{
+Iceland Transit Visa
+Iceland Tourist and Visitor Visa
+Iceland Medical Treatment Visa
+Iceland Long Stay Visa
+}
+India
+{
+Single entry Visa
+Multiple Entry Visa
+Business visa
+Tourist visa
+Residence Visa
+Visa on arrival
+Short Stay visa
+Long Stay Visa
+Work Visa
+Electronic Visa
+}
+Indonesia
+{
+Tourist visa
+Visa on Arrival 
+Social / Cultural 
+Business visa
+Temporary Stay Permit
+Student visa 
+Retirement visa
+Family visa
+}
+Iran
+{
+Entry Visa
+Tourist Visa
+Transit Visa
+Pilgrimage Visa
+Airport Visa
+Entry or transit visa for drivers carrying cargo
+Work permit visa
+}
+Iraq
+{
+Tourist Visa
+Tourist Visa-Multiple Entry	
+Service Visa	
+Long Term Tourist Visa	
+}
+Ireland
+{
+Short stay visas 
+Long stay visas
+Re-entry visas
+Transit visas 
+Multiple entry 
+single entry visas
+}
+Isle of Man
+{
+Entry clearance
+}
+Israel
+{
+Immigration visa
+A/1 Temporary Resident visa
+A/2 Student visa
+A/3 Clergy visa
+A/4 visa for spouses and children
+B/1 Work visa
+B/2 Visitor's visa
+}
+Italy
+{
+Long Term Visas
+Study Long Stay	
+Family Reunion Long Stay
+Employment Long Stay
+Self-Employment Long Stay
+}
+Japan
+{
+Temporary Visitor Visa 
+Visiting Friends/Acquaintances 
+Temporary Visitor Visa For Business Affairs/ Market Research  Conference Visa
+Transit Visa
+Long Term Stay with Certificate of Eligibility (COE)
+Long Term Stay with Certificate of Eligibility (COE) for spouse and Children
+}
+Jersey
+{
+tourist visa
+}
+Jordan
+{
+tourist visa
+}
+Kazakhstan
+{
+simple entry visa 
+tourist visa
+}
+Kenya
+{
+Ordinary Visa
+Transit Visa
+Diplomatic Visa
+Courtesy/ Official Visa
+East Africa Tourist Visa
+}
+Kiribati
+{
+Tourist Visa Required
+}
+Kosovo
+{
+Single-entry visa
+Double-entry visa
+Airport transit visa
+Multiple-entry visa
+}
+Kuwait
+{
+Tourist e-Visa
+Visit Visa
+Residence Visa
+Transit Visa
+Entrance Visa
+}
+Kyrgyzstan
+{
+Diplomatic visa 
+Official visa 
+Invest visa 
+Employment visa 
+Student visa 
+Business visa 
+Driver’s visa 
+Tourist visa 
+Religion
+Family visa 
+Transit visa 
+}
+Laos
+{
+ourist Visas 
+Business Visas 
+Transit Visas 
+Non - Immigrant Visas 
+Visit Visas 
+Labour Visas 
+Expert Visas 
+Diplomatic Visas
+}
+Latvia
+{
+Schengen Tourist Visa
+Schengen Business Visa
+Schengen Medical Visa
+}
+Lebanon
+{
+Tourist visa 
+Temporary & permanent residence visa 
+Transit visa 
+Courtesy visa 
+Collective visa 
+Work visa 
+}
+Lesotho
+{
+Tourist Visa
+Student Visa
+Business Visa
+Diplomatic Visa
+}
+Liberia
+{
+single entry vis
+one year multiple entry visa
+two year multiple entry visa 
+}
+Libya
+{
+long term visit visa
+Visa Type	
+Tourist Visa	
+Tourist Visa-Multiple Entry	
+Service Visa	
+Long Term Tourist Visa	
+}
+Liechtenstein
+{
+Schengen Visa
+National Visa
+Transit Visa
+Transit Visa
+Tourism Visa
+Visiting Visa
+}
+Lithuania
+{
+Schengen Visa
+Airport Transit Visa 
+Short-Stay Visa
+Airport Transit Visa
+}
+Luxembourg
+{
+short stay visa
+long stay visa
+}
+Macao
+{
+Individual visa
+Group visa
+}
+Macedonia
+{
+Short-Stay Visa
+Long - Stay Visa
+}
+Malawi
+{
+Tourist Visa
+Official Visa
+Transit Visa
+Diplomatic Visa
+Courtesy Visa
+}
+Malaysia
+{
+Single Entry Visa
+Multiple Entry Visa
+Transit Visa
+Transit Without Visa
+}
+Maldives
+{
+business visa
+family visa
+work visa
+tourist visa
+}
+Mali
+{
+single entry 
+multiple entry
+}
+Malta
+{
+schengen visa
+tourist visa
+student visa
+job visa
+training visa
+trade fair visa
+exhibition visa 
+medical visa
+research visa
+alanguage learning visa
+}
+Marshall Islands
+{
+visa on arrival
+}
+Martinique
+{
+short stay 
+schengen visa
+}
+Mauritius
+{
+Mauritian tourist visa
+On-arrival visa
+Student visa
+Mauritian temporary worker visa
+Spousal visa or partner visa
+Mauritian business visa
+Mauritian Marriage visa
+}
+Mayotte
+{
+visa on entry
+}
+Mexico
+{
+tourist card  land 180 days
+tourist card   air 180 days
+}
+Micronesia
+{
+visa on entry
+}
+Moldova
+{
+type c visa
+type d visa
+}
+Monaco
+{
+schengen visa
+ Single-entry visa
+Double-entry visa and
+Multiple-entry visa
+}
+Mongolia
+{
+entry visa
+tourist visa
+transit visa
+Diplomatic visa
+Investor visa
+Business visa 
+Student visa
+Tourist visa 
+}
+Montenegro
+{
+Airport transit
+Transit 
+Short stay visa 
+Long stay visa
+}
+Montserrat
+{
+tourist visa
+}
+Morocco
+{
+Tourist Visa-Multiple Entry
+Service Visa
+Long Term Tourist Visa
+Long Term Visit Visa-Multiple Entry
+}
+Mozambique
+{
+Single Entry 30 days	
+Single Entry Urgent	
+Multiple Entry 90 days	
+Multiple Entry Urgent	
+}
+Myanmar
+{
+Tourist Visa
+Business Visa
+Social Visa
+Meditation Visa
+Transit Visa
+Multiple Journey Entry Visa
+}
+Namibia
+{
+Diplomatic/Official Visas
+Holiday/Tourist Visas
+Transit Visas
+}
+Nauru
+{
+Tourist visas
+business visa
+}
+Nepal
+{
+Diplomatic Visa 
+Official Visa 
+Tourist Visa 
+Study Visa 
+Non Tourist Visa 
+Business Visa 
+Non-residential Nepali Visa 
+Residential Visa 
+}
+Netherlands
+{
+Schengen visa
+Single entry visa
+multiple entry visa
+Transit visa
+Return visa 
+}
+New Caledonia
+{
+Schengen visa
+short stay visa
+long term visa
+}
+New Zealand
+{
+resident visa
+talent work visa
+}
+Nicaragua
+{
+type a visa
+type b visa
+Workers visas
+Foreign investors visa
+Spouses visas
+}
+Niger
+{
+visa on arrival
+}
+Niue
+{
+Tourist Visa
+Business Visa
+}
+Norfolk Island
+{
+Tourist Visa 
+}
+North Korea
+{
+Tourist Visa
+}
+Northern Mariana Islands
+{
+Tourist Visa
+}
+Norway
+{
+Schengen Visa- Type 
+Multiple Entry Visa
+Entry Visa 
+}
+Oman
+{
+Tourist visa 
+Employment visa 
+Family joining & Family Residence Visa 
+Student Resident visa 
+Investor Residence Visa 
+Express visa 
+Friend, Relative visa 
+Official visit visa 
+Truck driver visa
+Scientific research visa
+Ship passenger &crew
+}
+Pakistan
+{
+Tourist Visa-Multiple Entry	
+Service Visa	
+Long Term Tourist Visa	
+Long Term Visit Visa-Multiple Entry	
+}
+Palau
+{
+Visa on arrival
+Visa in advance
+}
+Palestine
+{
+business visa
+}
+Panama
+{
+friendly nations visa
+retirement visa
+self economic solvency visa
+reforestation visa
+agricultre investor visa
+}
+Papua New Guinea
+{
+tourist visa
+}
+Paraguay
+{
+visa on arrival
+multiple entry visa
+single entry visa
+}
+Peru
+{
+visa on arrival
+tourist visa
+}
+Philippines
+{
+student visa
+13a Non-Quota Immigrant Visa 
+Temporary Resident Visa
+}
+Pitcairn
+{
+work visa
+settlement visa
+}
+Poland
+{
+Schengen visa
+National visa
+}
+Portugal
+{
+Airport transit visa
+Transit and short-term visa
+Limited Territorial Validity 
+Portuguese residence visa
+Long-stay Portuguese visas
+}
+Puerto Rico
+{
+tourist visa
+}
+Qatar
+{
+Tourist Visa
+Qatar Business Visa
+Qatar Work Visa
+Qatar Visit Visa
+Qatar Family Visa
+Qatar GCC Resident Visa
+}
+Reunion
+{
+tourist visa
+business visa
+relegious visa
+study visa
+sports visa
+transit visa
+invitation 
+accompanying_spouseparent visa
+employment visa
+}
+Romania
+{
+airport transit visa
+transit visa 
+short-stay visa 
+private visits visa
+business trips visa
+transport visa
+sports visa
+long-stay visa
+student visa
+}
+Russia
+{
+tourist visa
+business visa
+student visa
+personal visa
+work visa
+transit visa
+}
+Rwanda
+{
+tourist
+family
+official diplomat
+conference
+business
+medical treatment
+group tourist
+itinerant business person 
+bridging
+}
+Saint Barthelemy
+{
+ visa on entry
+}
+Saint Helena
+{
+visa on entry
+}
+Saint Kitts and Nevis
+{
+visa on entry
+}
+Saint Lucia
+{
+visa on entry
+}
+Saint Martin
+{
+visa on entry
+}
+Saint Pierre and Miquelon
+{
+visa on entry
+}
+Saint Vincent &amp    Grenadines
+{
+visa on entry
+}
+Samoa
+{
+visitor permit
+}
+San Marino
+{
+entry visa
+}
+Sao Tome & Principe
+{
+single entry visa
+}
+Saudi Arabia
+{
+Business / Commercial Visa
+Diplomatic and Official Visa
+Employment Visa
+Escort Visa 
+Family Visit Visa
+Government Visit Visa
+Residence Visa
+Student Visa
+Work Visit Visa
+Hajj Visa
+Umrah Visa
+}
+Senegal
+{
+diplomatic visa
+}
+Serbia
+{
+Short stay visa
+ Transit visa
+}
+Seychelles
+{
+tourist visa
+}
+Sierra Leone
+{
+single entry visa
+}
+Singapore
+{
+Employment Pass
+EntrePass
+Personalised Employment Pass
+Training Employment Pass
+Work Holiday Pass (under Work Holiday Programme)
+Work Holiday Pass (under Work and Holiday Visa Programme)
+Training Work Permit
+Dependant's Pass
+Long Term Visit Pass
+Pre-approved Letter of Consent
+Letter of Consent
+}
+Sint Maarten
+{
+standard Caribbean visa
+}
+Slovakia
+{
+Schengen visa
+Airport transit visa
+Schengen visa 
+Transit visa
+}
+Slovenia
+{
+short stay visa
+stay visa 
+}
+Solomon Islands
+{
+visitor pemit
+}
+Somalia
+{
+visa on arrival
+}
+South Africa
+{
+Tourist Visa (e-Visa)
+Visit Visa
+Business VisaWork Visa
+Medical Visa
+Study Visa
+Relatives’ Visa
+Exchange Visa
+Retired Persons’ Visa
+}
+South Georgia and the South Sandwich Islands
+{
+eVisa
+}
+South Korea
+{
+Diplomat 
+Government official
+Agreement 
+Visa exemption 
+Tourist/transit 
+Temporary news coverage
+Short-term business
+Short-term visit 
+Short-term employee 
+}
+South Sudan
+{
+tourist visa
+diplomatic visa
+}
+Spain
+{
+Long-term visa
+Airport transit visa
+Schengen visa
+}
+Sri Lanka
+{
+ETA tourist visa 
+ETA business visa 
+ETA transit visa 
+ETA transit visa 
+}
+Sudan
+{
+long term visit visa
+tourist visa
+service visa
+long term tourist visa
+mutliple entry visa
+}
+Suriname
+{
+tourist visa
+}
+Svalbard & Jan Mayen
+{
+Schengen Visa
+}
+Swaziland
+{
+entry visa
+}
+Sweden
+{
+Business And Conference Visa
+Tourist Visa
+Visiting Relatives And Friends Visa
+Cultural, Sport Or Religious Events Visa
+Seaman Visa
+Study Visa
+Medical Visa
+}
+Switzerland
+{
+Schengen visa
+}
+Syria
+{
+Tourist Visa 
+}
+Taiwan
+{
+Visitor Visa
+Resident Visa
+Work Permits
+}
+Tajikistan
+{
+Diplomatic visa 
+Official visa
+Investment visa
+Business visa
+Work visa
+Tourist visa 
+Academic visa
+Learning visa
+Private visa
+Free economic zone visa 
+Transport visa
+Aircraft crew visa
+Immigrant visa
+Mass media visa
+pouse of Tajikistan’s citizen visa
+Sports and entertainment visa
+Missionary visa
+Humanitarian visa 
+Commercial visa 
+}
+Tanzania
+{
+Travel visa
+Transit visa
+Business Visa
+}
+Thailand
+{
+Tourist Visa
+Non-Immigrant Visa
+One Year Non-Immigrant Visa
+Marriage Visa and Retirement Visa
+Business Visa
+Permanent Resident Visa
+}
+Togo
+{
+visa on arrival
+}
+Tokelau
+{
+Tourist Visa 
+}
+Tonga
+{
+visa on arrival
+}
+Trinidad and Tobago
+{
+TOURIST TRAVEL
+BUSINESS TRAVEL
+EMPLOYMENT OR STUDY TRAVEL
+}
+Tunisia
+{
+tourist visa 
+business visa 
+transit visa
+}
+Turkey
+{
+tourist visa
+official visa
+student–education visa
+working visa
+other visas
+}
+Turks & Caicos Islands
+{
+transit visa
+}
+Tuvalu
+{
+visa on arrival
+}
+Uganda
+{
+tourist single
+tourist multiple
+business single
+business multiple visas
+}
+UK Virgin Islands
+{
+BVI visas
+}
+Ukraine
+{
+transit visas
+short-term visas
+long-term visa
+}
+United Arab Emirates
+{
+30 Days Tourist Visa
+96 Hour Transit Visa
+90 DAY VISIT VISA
+Single Entry Long Term Visa 
+eVisa
+Multi-Entry Long Term Visa
+Multi-Entry Short Term Visa
+30 Day Visa and 30 Day Visa
+}
+United Kingdom
+{
+Work Visas
+Business Visas
+Study Visas
+Visitor Visas
+Family Visas
+Settlement Visas
+Transit Visas
+}
+United States
+{
+A
+A1
+G-1
+NATO1-6
+A-2
+NATO1-6
+B-1
+B-2	
+BCC	
+C	
+D	
+E-1	
+E-2	
+E-3	
+F-1	
+F-2	
+G1- G5
+NATO	
+H-1B1	
+H1-B	
+H2-A	
+H2-B	
+H3	
+H1-C	
+I	
+J	
+J-1	
+J-2	
+K-1	
+L	
+M-1	
+M-2	
+O-1	
+P	
+Q	
+R	
+TN/TD	
+T-1	
+U-1	
+}
+Uruguay
+{
+Provisional Identity Card
+Temporary Residence
+Permanent Residence
+}
+US Virgin Islands
+{
+tourist visa
+}
+Uzbekistan
+{
+e-Visa visa
+Single Entry visa
+Double Entry visa
+Multiple Entry visa
+}
+Vanuatu
+{
+visitor visa
+}
+Vatican City
+{
+free entry
+}
+Venezuela
+{
+transit visa
+multiple entry visa
+}
+Vietnam
+{
+1-month single entry visa   
+1-month multiple entry visa   
+3 months single entry visa      
+3 months multiple entry visa  
+}
+Wallis and Futuna
+{
+A to V visa
+}
+Western Sahara
+{
+travel visa
+business visa
+}
+Yemen
+{
+Tourist Visa             
+Single Entry  
+Tourist Visa-Multiple Entry   
+Multiple Entry 
+Service Visa                
+Single Entry    
+}
+Zambia
+{
+single entry visa
+multiple entry visa
+}
+Zimbabwe
+{
+Single Entry visa a
+Double Entry visa 
+Multiple Entry visas
+}
