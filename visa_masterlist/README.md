@@ -29,3 +29,6 @@ well someone may ask why not create an export dump of the sql table ,well i had 
 
 
 well create a table of your choice  before inserting i am too lazy to add lines ,its easy but i am too lazy now
+
+
+Also change the db and username and the ip in the script 
