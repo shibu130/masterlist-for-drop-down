@@ -44,7 +44,7 @@ mycursor=mydb.cursor()
            
     #table creation 
 
-mycursor.execute("CREATE TABLE visatypes ( id int NOT NULL AUTO_INCREMENT ,country VARCHAR(20), visa VARCHAR(255)),PRIMARY KEY (id)")
+mycursor.execute("CREATE TABLE visatypes ( id int NOT NULL AUTO_INCREMENT ,country VARCHAR(20), visa VARCHAR(20)),PRIMARY KEY (id)")
 
 #print(dictionary)
 #count=0
