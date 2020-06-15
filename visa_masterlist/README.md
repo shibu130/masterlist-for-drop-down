@@ -24,11 +24,10 @@ id ||  country ||  visa ||
 
 
 
-well someone may ask why not create an export dump of the sql table ,well i had the table dump but somehow lost it and i found the script recently
+well someone may ask why not create an export dump of the sql table of inutial 3 tables ,well i had the table dump but somehow lost it 
 
 
 
-well create a table of your choice  before inserting i am too lazy to add lines ,its easy but i am too lazy now
 
 
 Also change the db and username and the ip in the script 
