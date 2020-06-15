@@ -33,17 +33,18 @@ for i in line:
             dictionary[i.strip()]=[]
         
 
-        
+#change the values below
 mydb = mysql.connector.connect(
   host="localhost",
-  user="imrankhan",
-  passwd="imukhan@25",
-  database="user"
+  user="your_username",
+  passwd="your_password",
+  database="your_database"
 )
 mycursor=mydb.cursor()
            
+    #table creation 
 
-
+mycursor.execute("CREATE TABLE visatypes ( id int NOT NULL AUTO_INCREMENT ,country VARCHAR(20), visa VARCHAR(255)),PRIMARY KEY (id)")
 
 #print(dictionary)
 #count=0
@@ -59,28 +60,3 @@ for f,g in dictionary.items():
 
 
 
-#print(count)
-
-
-
-
-
-
-# mydb = mysql.connector.connect(
-#   host="localhost",
-#   user="imrankhan",
-#   passwd="imukhan@25",
-#   database="user"
-# )
-
-
-# cursor=mydb.cursor()
-
-
-
-#print(dictionary.keys())
-
-# d={"one":"","two":""}
-
-# a=list(d.keys())[-1]
-# print(a)
