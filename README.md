@@ -15,7 +15,7 @@ Country city state well 3 tables to 40 k tables because u will have to use lots 
 i made it simple select country from countries table u have that countries table with states and then seperate table for each state containing cities 
 
 
-Well you may find this useful while doing a project which has a registration page , I used to search for getting the type of visa for each country i couldnt find one so i went to each and every embassy website to compile a list
+Well you may find this useful while doing a project which has a registration page , I used to search for getting the type of visa for each country i couldnt find one so i went to each and every embassy website to compile a list and same as for the education list
 
 
 I hope someone someday will find this useful
