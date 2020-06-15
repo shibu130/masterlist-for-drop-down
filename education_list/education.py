@@ -33,9 +33,12 @@ for i in line:
 
 
 mydb = mysql.connector.connect(
-    host="localhost", user="imrankhan", passwd="imukhan@25", database="user"
+    host="localhost", user="your_username", passwd="your_password", database="your_database"
 )
 mycursor = mydb.cursor()
+
+#creating the new table
+mycursor.execute("CREATE TABLE visatypes ( id int NOT NULL AUTO_INCREMENT ,course_category VARCHAR(20), course_type VARCHAR(20)),PRIMARY KEY (id)")
 
 # id              | bigint(20)   | NO   | PRI | NULL    | auto_increment |
 # | course_category | varchar(255) | YES  |     | NULL    |                |
@@ -56,23 +59,4 @@ for f, g in dictionary.items():
         print("inserted row {0}".format(mycursor.lastrowid))
 
 
-# print(count)
 
-
-# mydb = mysql.connector.connect(
-#   host="localhost",
-#   user="imrankhan",
-#   passwd="imukhan@25",
-#   database="user"
-# )
-
-
-# cursor=mydb.cursor()
-
-
-# print(dictionary.keys())
-
-# d={"one":"","two":""}
-
-# a=list(d.keys())[-1]
-# print(a)
