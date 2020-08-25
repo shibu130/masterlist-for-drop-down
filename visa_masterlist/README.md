@@ -31,3 +31,9 @@ well someone may ask why not create an export dump of the sql table of inutial 3
 
 
 Also change the db and username and the ip in the script 
+
+
+So a question arises why create this?
+------------------------------------
+
+Well i couldnt find the information or a db dump containing visa details so i created on my self by searching many sites and putting them together into a file
